@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Rounded square background -->
+  <rect width="100" height="100" rx="22" ry="22" fill="#2DD4BF"/>
+
+  <!-- Three wavy lines, white, centered vertically -->
+  <!-- Wave 1 (top) -->
+  <path
+    d="M18 34 C26 27, 34 27, 42 34 C50 41, 58 41, 66 34 C74 27, 82 27, 82 34"
+    fill="none"
+    stroke="white"
+    stroke-width="6"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <!-- Wave 2 (middle) -->
+  <path
+    d="M18 50 C26 43, 34 43, 42 50 C50 57, 58 57, 66 50 C74 43, 82 43, 82 50"
+    fill="none"
+    stroke="white"
+    stroke-width="6"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <!-- Wave 3 (bottom) -->
+  <path
+    d="M18 66 C26 59, 34 59, 42 66 C50 73, 58 73, 66 66 C74 59, 82 59, 82 66"
+    fill="none"
+    stroke="white"
+    stroke-width="6"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>
