@@ -1,0 +1,1 @@
+function e(e){typeof document>`u`||(document.documentElement.dataset.lang=e,document.documentElement.lang=e===`RU`?`ru`:`en`)}function t(t){if(!(typeof window>`u`)){try{typeof localStorage<`u`&&localStorage.setItem(`vinipuch:lang`,t)}catch{}e(t),window.dispatchEvent(new CustomEvent(`vinipuch:langchange`,{detail:t}))}}export{t};

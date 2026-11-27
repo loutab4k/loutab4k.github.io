@@ -1,0 +1,1 @@
+import{t as e}from"./i18n.hIIkds9C.js";document.querySelectorAll(`[data-lang-toggle] [data-lang-link]`).forEach(t=>{t.addEventListener(`click`,()=>{let n=t.dataset.langLink;(n===`RU`||n===`EN`)&&e(n)})});
